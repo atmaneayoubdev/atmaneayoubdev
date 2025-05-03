@@ -36,21 +36,10 @@ Here are some ideas to get you started:
 <img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
 
-<a href="https://www.linkedin.com/in/atmaneayoubdev/" target="_blank">
+<a href="https://www.linkedin.com/in/atmaneayoub/" target="_blank">
   <img align="left" alt="Souvik's LinkedIn" height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-
-<a href="https://leetcode.com/Souvik_Majumder" target="_blank">
-  <img align="left" alt="Souvik's LeetCode" height="30" src="leetcode.png" />
-</a>
-
-<img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-
-<a href="https://orcid.org/0000-0002-2382-7401" target="_blank">
-  <img align="left" alt="Souvik's ORCID" height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
-</a>
 
 <br />
 <br />
