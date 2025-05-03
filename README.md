@@ -16,16 +16,37 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 Here are some ideas to get you started:
 -->
 
-- 🔭 A Sr. AI/ML Engineer contributing to innovative projects with a focus on building efficient solutions be it using traditional Deep Learning techniques or new age GenAI.
-- 🌱 I am constantly expanding my skills with enhanced focus in areas such as Computer Vision, Natural Language Processing and GenAI. Also updating my skills in Cloud platforms (Azure, AWS), and MLOps. I am passionate about staying at the forefront of technological advancements.
-- 🍁 In addition to my professional work, I enjoy teaching Python, Data Science, Artificial Intelligence, Machine Learning, and Deep Learning.
-- ⚡ Fun fact: Since childhood, I have had a deep love for arts, particularly painting, drawing, and sketching. At one point, I even aspired to become a full-time artist! 😅 Now, the creative mind assists the analytical side to build innovative and useful solutions.
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... -->
+## 👋 Hi there! I'm Atmane Ayoub
 
-----
+A dedicated engineer and problem solver passionate about building intelligent systems that have real-world impact. With a strong foundation in Artificial Intelligence, Computer Vision, and Natural Language Processing, I enjoy turning complex challenges into innovative and efficient solutions.
+
+🚀 I'm a Sr. AI/ML Engineer with over 5 years of experience, focused on delivering production-ready solutions using both classical deep learning and modern Generative AI techniques.
+
+🧠 Actively working with tools like **Hugging Face Transformers**, **LangChain**, and **vector databases** to build cutting-edge RAG pipelines and GenAI systems.
+
+### 🔬 Specialized in areas like:
+- Vision-based AI systems (object detection, segmentation, OCR)
+- NLP applications (chatbots, summarization, sentiment analysis)
+- Generative AI (LLMs, prompt engineering, fine-tuning)
+- MLOps for scalable model deployment and monitoring
+
+### 🛠️ My Full-Stack Developer Toolbox:
+- **Backend**: FastAPI, Django, Node.js, Laravel  
+- **Frontend**: React.js, Next.js  
+- **Mobile**: Flutter  
+I regularly integrate AI models into end-to-end applications, ensuring smooth deployment and user interaction.
+
+☁️ Experienced with **AWS**, **Azure**, and containerization using **Docker** for robust cloud-based AI deployment.
+
+🎓 I love sharing knowledge through mentoring and teaching **Python**, **AI**, **ML**, and **Deep Learning**.
+
+🎨 **Fun fact**: I once dreamed of being a full-time artist—now that creativity fuels my engineering journey!
+
+---
+
+📫 **Let’s connect or collaborate**:  
+📧 [atmaneayoub10@gmail.com](mailto:atmaneayoub10@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/atmaneayoub/)
 
 
 <img align="right" width=400 src="python-2.gif"/>
