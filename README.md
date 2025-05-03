@@ -1,22 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/86871718/161140687-a001991c-2804-4a42-9ecb-2a5bc96ddaf5.gif" width="35">  Hi there, I'm Souvik Majumder... nice to see you! <img src="https://user-images.githubusercontent.com/86871718/161139862-048ac7a9-9731-4b2e-abba-165538b42917.gif" width="35">
-
-<!--
-An innate problem solver evolved as a passionate engineer. My passion for software lies in leveraging Digital Technologies like Data Science, Artificial Intelligence, Cloud Computing to make radical ideas come true creating value for business and society. I take great care in the things I build.
--->
-
-A passionate problem solver and dedicated engineer hailing from Algeria, I thrive on unraveling intricate challenges. My software journey revolves around harnessing the power of digital technologies such as Data Science, Artificial Intelligence, and Cloud Computing, transforming bold ideas into reality while generating substantial value for businesses and society. I take great care in the things I build.
-
-<!--
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
--->
-
-<!--
-**atmaneayoubdev/atmaneayoubdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-## 👋 Hi there! I'm Atmane Ayoub
+# <img src="https://user-images.githubusercontent.com/86871718/161140687-a001991c-2804-4a42-9ecb-2a5bc96ddaf5.gif" width="35">  Hi there, I'm Atmane Ayoub... nice to see you! <img src="https://user-images.githubusercontent.com/86871718/161139862-048ac7a9-9731-4b2e-abba-165538b42917.gif" width="35">
 
 A dedicated engineer and problem solver passionate about building intelligent systems that have real-world impact. With a strong foundation in Artificial Intelligence, Computer Vision, and Natural Language Processing, I enjoy turning complex challenges into innovative and efficient solutions.
 
