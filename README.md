@@ -11,7 +11,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 -->
 
 <!--
-**souvikmajumder26/souvikmajumder26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**atmaneayoubdev/atmaneayoubdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
 
-<a href="https://www.linkedin.com/in/souvikmajumder26/" target="_blank">
+<a href="https://www.linkedin.com/in/atmaneayoubdev/" target="_blank">
   <img align="left" alt="Souvik's LinkedIn" height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
 
@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 
 ## 🤖 GitHub Stats:
 
-|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&show_icons=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&show_icons=true&theme=swift&hide_border=true" /></a>|
+|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=atmaneayoubdev&show_icons=true&include_all_commits=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=atmaneayoubdev&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=atmaneayoubdev&layout=compact&show_icons=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=atmaneayoubdev&layout=compact&show_icons=true&theme=swift&hide_border=true" /></a>|
 | ------------- | ------------- |
 
 
@@ -135,15 +135,15 @@ Here are some ideas to get you started:
 
 <p align=center><b>Data Science, Machine Learning and Deep Learning Projects & Research Publications</b></p>
 
-|<a href="https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Multi-Agent-Medical-Assistant&show_icons=false&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Land-Cover-Semantic-Segmentation-PyTorch&show_icons=true&theme=swift" /></a>|
+|<a href="https://github.com/atmaneayoubdev/Multi-Agent-Medical-Assistant"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=atmaneayoubdev&repo=Multi-Agent-Medical-Assistant&show_icons=false&theme=swift" /></a>|<a href="https://github.com/atmaneayoubdev/Land-Cover-Semantic-Segmentation-PyTorch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=atmaneayoubdev&repo=Land-Cover-Semantic-Segmentation-PyTorch&show_icons=true&theme=swift" /></a>|
 | ------------- | ------------- |
-|<a href="https://github.com/souvikmajumder26/Any-Face-Clustering"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&show_icons=true&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Neural-Network-from-Scratch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Neural-Network-from-Scratch&show_icons=true&theme=swift" /></a>|
+|<a href="https://github.com/atmaneayoubdev/Any-Face-Clustering"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=atmaneayoubdev&repo=Any-Face-Clustering&show_icons=true&theme=swift" /></a>|<a href="https://github.com/atmaneayoubdev/Neural-Network-from-Scratch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=atmaneayoubdev&repo=Neural-Network-from-Scratch&show_icons=true&theme=swift" /></a>|
 
 <br />
 
 <p align=center><b>Web Development Projects for Fun</b></p>
 
-|<a href="https://github.com/souvikmajumder26/Art-Page"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Art-Page&show_icons=true&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Arrow-India"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Arrow-India&show_icons=true&theme=swift" /></a>|
+|<a href="https://github.com/atmaneayoubdev/Art-Page"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=atmaneayoubdev&repo=Art-Page&show_icons=true&theme=swift" /></a>|<a href="https://github.com/atmaneayoubdev/Arrow-India"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=atmaneayoubdev&repo=Arrow-India&show_icons=true&theme=swift" /></a>|
 | ------------- | ------------- |
 
 <br />
