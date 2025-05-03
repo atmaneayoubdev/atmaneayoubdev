@@ -16,7 +16,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 Here are some ideas to get you started:
 -->
 
-- 🔭 A Sr. Machine Learning Engineer contributing to innovative projects with a focus on building efficient solutions be it using traditional Deep Learning techniques or new age GenAI.
+- 🔭 A Sr. AI/ML Engineer contributing to innovative projects with a focus on building efficient solutions be it using traditional Deep Learning techniques or new age GenAI.
 - 🌱 I am constantly expanding my skills with enhanced focus in areas such as Computer Vision, Natural Language Processing and GenAI. Also updating my skills in Cloud platforms (Azure, AWS), and MLOps. I am passionate about staying at the forefront of technological advancements.
 - 🍁 In addition to my professional work, I enjoy teaching Python, Data Science, Artificial Intelligence, Machine Learning, and Deep Learning.
 - ⚡ Fun fact: Since childhood, I have had a deep love for arts, particularly painting, drawing, and sketching. At one point, I even aspired to become a full-time artist! 😅 Now, the creative mind assists the analytical side to build innovative and useful solutions.
@@ -130,20 +130,3 @@ Here are some ideas to get you started:
 |<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=atmaneayoubdev&show_icons=true&include_all_commits=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=atmaneayoubdev&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=atmaneayoubdev&layout=compact&show_icons=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=atmaneayoubdev&layout=compact&show_icons=true&theme=swift&hide_border=true" /></a>|
 | ------------- | ------------- |
 
-
-## 🎯 Top Repositories:
-
-<p align=center><b>Data Science, Machine Learning and Deep Learning Projects & Research Publications</b></p>
-
-|<a href="https://github.com/atmaneayoubdev/Multi-Agent-Medical-Assistant"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=atmaneayoubdev&repo=Multi-Agent-Medical-Assistant&show_icons=false&theme=swift" /></a>|<a href="https://github.com/atmaneayoubdev/Land-Cover-Semantic-Segmentation-PyTorch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=atmaneayoubdev&repo=Land-Cover-Semantic-Segmentation-PyTorch&show_icons=true&theme=swift" /></a>|
-| ------------- | ------------- |
-|<a href="https://github.com/atmaneayoubdev/Any-Face-Clustering"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=atmaneayoubdev&repo=Any-Face-Clustering&show_icons=true&theme=swift" /></a>|<a href="https://github.com/atmaneayoubdev/Neural-Network-from-Scratch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=atmaneayoubdev&repo=Neural-Network-from-Scratch&show_icons=true&theme=swift" /></a>|
-
-<br />
-
-<p align=center><b>Web Development Projects for Fun</b></p>
-
-|<a href="https://github.com/atmaneayoubdev/Art-Page"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=atmaneayoubdev&repo=Art-Page&show_icons=true&theme=swift" /></a>|<a href="https://github.com/atmaneayoubdev/Arrow-India"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=atmaneayoubdev&repo=Arrow-India&show_icons=true&theme=swift" /></a>|
-| ------------- | ------------- |
-
-<br />
