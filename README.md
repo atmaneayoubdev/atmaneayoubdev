@@ -22,7 +22,6 @@ I regularly integrate AI models into end-to-end applications, ensuring smooth de
 
 🎓 I love sharing knowledge through mentoring and teaching **Python**, **AI**, **ML**, and **Deep Learning**.
 
-🎨 **Fun fact**: I once dreamed of being a full-time artist—now that creativity fuels my engineering journey!
 
 ---
 
