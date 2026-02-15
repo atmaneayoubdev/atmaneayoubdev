@@ -1,159 +1,174 @@
-<h1 align="center">Atmane Ayoub</h1>
-<h3 align="center">AI Systems Engineer • Agentic Architect • Applied ML Researcher</h3>
-
+<!-- Animated Header -->
 <p align="center">
-Designing intelligence as infrastructure.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Atmane+Ayoub;AI+Systems+Engineer;Agentic+Architecture+%7C+LLM+Systems+%7C+Vision+%7C+ML;Designing+Intelligence+as+Infrastructure" />
 </p>
 
 ---
 
-## 🔬 Focus
-
-I design and engineer **intelligent systems that reason, retrieve, act, and scale**.
-
-My work sits at the intersection of:
-
-- Classical machine learning systems
-- Deep learning & computer vision
-- Generative AI & large language models
-- Agentic orchestration frameworks
-- Scalable AI infrastructure
-
-This is not experimentation.
-
-This is production-grade intelligence engineering.
+<h3 align="center">Building production-grade AI systems that reason, retrieve, act, and scale.</h3>
 
 ---
 
-## 🧠 Research & Engineering Themes
+## ⚡ Identity
 
-### Agentic Systems & Autonomous Workflows
+I engineer intelligence as infrastructure.
 
-- ReAct, Plan–Execute, Tool-Calling architectures  
-- Structured reasoning & intermediate state control  
+Not demos.  
+Not notebooks.  
+Not wrappers.
+
+I design **end-to-end AI systems** where:
+
+- Models reason with structure  
+- Retrieval is measurable  
+- Agents execute safely  
+- Latency is controlled  
+- Infrastructure scales  
+- Failure modes are understood  
+
+My work spans classical ML, deep learning, and frontier LLM architectures — unified under one principle:
+
+> Intelligence must be engineered.
+
+---
+
+# 🧠 Core Domains
+
+## Agentic Architectures (Primary Focus)
+
+- ReAct / Plan-Execute / Tool-calling systems  
 - Multi-agent coordination  
 - Deterministic + LLM hybrid pipelines  
-- Guardrails, constraint enforcement, tool validation  
-- Long-horizon task decomposition  
-- Autonomous decision loops  
+- Structured intermediate reasoning  
+- Constraint-enforced generation  
+- Long-horizon task orchestration  
+- Guardrails & validation layers  
 
-> Focus: making LLM systems reliable, inspectable, and controllable.
+I build autonomous systems that interact with tools, memory, and structured knowledge — reliably.
 
 ---
 
-### Retrieval-Augmented Generation (RAG)
+## Retrieval-Augmented Systems
 
 - Hybrid search (BM25 + dense embeddings)  
-- Adaptive chunking & semantic segmentation  
+- Adaptive semantic chunking  
 - Reranking pipelines  
-- Evaluation harnesses (Ragas, DeepEval, custom frameworks)  
-- Hallucination mitigation & grounded reasoning  
-- Self-correcting retrieval loops  
+- Self-correcting RAG loops  
+- Evaluation-driven iteration  
+- Hallucination mitigation through grounding  
 
-> Focus: grounding intelligence in structured knowledge.
-
----
-
-### Deep Learning & Vision Systems
-
-- Custom CNN / Transformer architectures  
-- Detection, segmentation, OCR pipelines  
-- GPU optimization & inference acceleration  
-- Multilingual vision-language pipelines  
-- Real-time deployment constraints  
-
-> Focus: high-throughput, low-latency AI perception systems.
+Retrieval is not optional.  
+It is the backbone of controlled intelligence.
 
 ---
 
-### Classical ML & Structured Intelligence
+## Deep Learning & Vision
 
-- Tabular modeling & boosting systems  
-- Risk modeling & anomaly detection  
-- Explainability-first workflows (SHAP, LIME)  
-- Drift monitoring & retraining systems  
+- Custom CNN / Transformer pipelines  
+- Detection, segmentation, OCR  
+- GPU batching & latency tuning  
+- Real-time inference APIs  
+- Vision-language integration  
 
-> Focus: interpretable intelligence in regulated domains.
+Performance and reliability are non-negotiable.
 
 ---
 
-## 🏗 Systems Architecture Philosophy
+## Classical ML & Structured Modeling
 
-AI is not a model.  
-AI is a distributed system.
+- Boosting systems (XGBoost / LightGBM / CatBoost)  
+- Risk & anomaly modeling  
+- Explainable ML systems  
+- Drift-aware production pipelines  
 
-I engineer:
+Not everything needs a transformer.  
+Sometimes rigor wins.
 
-- Kubernetes-native AI services  
-- GPU-aware workloads (AWS / Azure / GCP)  
-- Observable inference stacks  
-- Latency-aware pipelines  
-- Failure-resilient deployments  
-- Cost-efficient scaling strategies  
+---
 
-Design priorities:
+# 🏗 System Architecture Mindset
+
+AI is a distributed system problem.
+
+I design:
+
+- Kubernetes-native inference stacks  
+- GPU-aware workload orchestration  
+- Observable LLM pipelines  
+- Latency-budgeted APIs  
+- Failure-isolated microservices  
+- Cost-optimized inference flows  
+
+Priorities:
 
 - Determinism where possible  
-- LLM flexibility where needed  
-- Measurable performance always  
+- Flexibility where needed  
+- Metrics everywhere  
 
 ---
 
-## 🚀 Featured Systems
+# 🚀 Featured Systems
 
-### 🧩 Agentic Knowledge Execution Engine
-An autonomous RAG + tool-calling system capable of:
-- Structured multi-step reasoning
-- Tool invocation with validation
+### 🔷 Autonomous Knowledge Execution Engine
+Agentic RAG framework capable of:
+
+- Multi-step reasoning
+- Tool invocation with schema validation
 - Hybrid retrieval + reranking
-- Evaluation-driven improvement loops
+- Structured outputs (JSON enforced)
+- Evaluation harness integration
 
-Focus: reducing hallucinations while increasing autonomy.
-
----
-
-### 👁 High-Throughput Vision Pipeline
-Computer vision system designed for:
-- Detection + structured extraction
-- GPU-optimized batching
-- Real-time inference APIs
-- Production observability
-
-Focus: throughput, precision, and reliability.
+Built for reliability, not novelty.
 
 ---
 
-### 🧠 Domain-Adapted LLM Framework
-Fine-tuned LLM architecture:
+### 🔷 High-Throughput Vision Service
+GPU-optimized detection + extraction system:
+
+- Batched inference
+- Custom post-processing
+- API-first deployment
+- Observability integrated
+
+Designed for scale and precision.
+
+---
+
+### 🔷 Domain-Adapted LLM Stack
+Fine-tuned LLM deployment system:
+
 - LoRA / QLoRA adaptation
+- Quantized inference (vLLM)
 - Synthetic data generation loops
-- Structured output enforcement
-- Inference cost optimization (quantization / vLLM)
+- Cost-controlled scaling
 
-Focus: practical reasoning over domain-specific corpora.
+Optimized for real-world constraints.
 
 ---
 
-## 🛠 Stack
+# 🛠 Technology Stack
 
-### Core ML
-![Python](https://img.shields.io/badge/Python-ML-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Tabular-orange)
+## Machine Learning
+![Python](https://img.shields.io/badge/Python-Intelligence-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Structured-orange)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-green)
 ![LightGBM](https://img.shields.io/badge/LightGBM-GBDT-brightgreen)
+![Optuna](https://img.shields.io/badge/Optuna-Optimization-purple)
 
-### Deep Learning
+## Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-Research-red)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Production-orange)
-![YOLO](https://img.shields.io/badge/YOLO-Vision-yellow)
+![Transformers](https://img.shields.io/badge/HuggingFace-LLM-yellow)
+![YOLO](https://img.shields.io/badge/YOLO-Vision-critical)
 
-### LLM & Agentic
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-black)
+## LLM & Agentic
+![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-black)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-purple)
 ![DSPy](https://img.shields.io/badge/DSPy-Programmatic-blueviolet)
 ![vLLM](https://img.shields.io/badge/vLLM-Inference-blue)
+![TensorRT](https://img.shields.io/badge/TensorRT-Acceleration-green)
 
-### Infrastructure
+## Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-Serving-teal)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5)
@@ -163,27 +178,24 @@ Focus: practical reasoning over domain-specific corpora.
 
 ---
 
-## 🎯 Current Direction
+# 🎯 Current Direction
 
-- Robust agentic orchestration frameworks  
-- Long-horizon autonomous reasoning  
-- Structured generation under constraints  
-- Retrieval systems with measurable grounding  
+- Reliable agentic orchestration frameworks  
+- Long-context reasoning under constraints  
+- Evaluation-first LLM engineering  
 - Efficient frontier-model deployment  
+- High-performance multimodal systems  
 
 ---
 
-## 🤝 Collaboration
+# 🤝 Connect
 
-Interested in:
-
-- Agentic AI architecture  
-- LLM systems research  
-- High-performance inference engineering  
-- Applied AI in regulated or high-stakes domains  
+📧 atmaneayoub10@gmail.com  
+🔗 https://linkedin.com/in/atmaneayoub  
+📍 Abu Dhabi, UAE  
 
 ---
 
 <p align="center">
-Engineering intelligence properly.
+  <i>Always building. Always refining. Engineering intelligence properly.</i>
 </p>
