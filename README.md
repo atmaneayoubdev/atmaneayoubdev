@@ -1,6 +1,6 @@
 <!-- =======================================================
 Atmane Ayoub — GitHub Profile
-Ultra-clean Principal Engineer vibe
+Ultra-clean Principal Engineer landing page
 ======================================================= -->
 
 <!-- HERO -->
@@ -9,7 +9,7 @@ Ultra-clean Principal Engineer vibe
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=900&color=9BE9FF&center=true&vCenter=true&width=900&lines=Designing+intelligence+as+infrastructure.;Agents+that+execute+with+control.;Grounded+retrieval+by+design.;Latency%2C+reliability%2C+observability." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=900&color=9BE9FF&center=true&vCenter=true&width=900&lines=Designing+intelligence+as+infrastructure.;Bounded+autonomy+over+prompt+tricks.;Grounded+retrieval+by+design.;Latency%2C+reliability%2C+observability." />
 </p>
 
 <p align="center">
@@ -30,9 +30,9 @@ I engineer **production-grade AI systems** that reason, retrieve, act, and scale
 
 Not demos.  
 Not wrappers.  
-Not notebook experiments.
+Not isolated models.
 
-I design end-to-end intelligent services where:
+I design intelligent services where:
 
 - Autonomy is bounded  
 - Retrieval is measurable  
@@ -41,20 +41,24 @@ I design end-to-end intelligent services where:
 - Systems are observable  
 - Reliability is engineered  
 
+Intelligence is not magic.  
+It is architecture.
+
 ---
 
 ## Core Focus
 
 ### Agentic Systems
 
-- Tool-calling agents with schema enforcement  
+- Tool-calling agents with strict schema enforcement  
 - Plan–execute architectures with control checkpoints  
 - Multi-agent workflow orchestration  
 - Structured reasoning with typed outputs  
 - Guardrails, validation layers, rollback paths  
 - Deterministic + LLM hybrid pipelines  
 
-Reliable autonomy > uncontrolled generation.
+Autonomy without control is chaos.  
+I build control.
 
 ---
 
@@ -66,7 +70,7 @@ Reliable autonomy > uncontrolled generation.
 - Grounded generation with citation enforcement  
 - Evaluation harnesses for regression testing  
 
-Retrieval is infrastructure — not a plugin.
+Retrieval is infrastructure — not an add-on.
 
 ---
 
@@ -77,7 +81,7 @@ Retrieval is infrastructure — not a plugin.
 - Real-time API deployment  
 - Observability-integrated vision services  
 
-Performance is a feature.
+Performance is engineered — not hoped for.
 
 ---
 
@@ -87,7 +91,7 @@ Performance is a feature.
 - Explainability-first modeling  
 - Drift-aware retraining pipelines  
 
-The right model for the right constraint.
+The right model under the right constraint.
 
 ---
 
@@ -103,32 +107,6 @@ The right model for the right constraint.
 
 ---
 
-## Featured Projects
-
-### ⭐ Agentic Workflow Engine
-Tool-using autonomous workflows with validation and observability.  
-Bounded autonomy with measurable execution.
-
-Repo: `github.com/<you>/<agentic-engine>`
-
----
-
-### ⭐ RAG Evaluation Suite
-Hybrid retrieval + reranking + quality gates.  
-Grounded generation with regression testing.
-
-Repo: `github.com/<you>/<rag-suite>`
-
----
-
-### ⭐ High-Throughput Vision Service
-GPU-optimized detection and structured extraction system.  
-Engineered for throughput, precision, and reliability.
-
-Repo: `github.com/<you>/<vision-service>`
-
----
-
 ## Stack (Signals Only)
 
 <p>
@@ -141,15 +119,6 @@ Repo: `github.com/<you>/<vision-service>`
   <img src="https://img.shields.io/badge/AWS-0b0f14?style=flat&logo=amazonaws&logoColor=E6EDF3" />
   <img src="https://img.shields.io/badge/Azure-0b0f14?style=flat&logo=microsoftazure&logoColor=E6EDF3" />
   <img src="https://img.shields.io/badge/GCP-0b0f14?style=flat&logo=googlecloud&logoColor=E6EDF3" />
-</p>
-
----
-
-## GitHub Activity (Minimal)
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b0f14&text_color=E6EDF3&icon_color=9BE9FF" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&hide_title=true&hide_border=true&bg_color=0b0f14&text_color=E6EDF3" />
 </p>
 
 ---
