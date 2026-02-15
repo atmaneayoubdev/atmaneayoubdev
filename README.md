@@ -1,201 +1,159 @@
-<!-- Animated Header -->
+<!-- =======================================================
+Atmane Ayoub — GitHub Profile
+Ultra-clean Principal Engineer vibe
+======================================================= -->
+
+<!-- HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Atmane+Ayoub;AI+Systems+Engineer;Agentic+Architecture+%7C+LLM+Systems+%7C+Vision+%7C+ML;Designing+Intelligence+as+Infrastructure" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0f14,100:0b0f14&text=Atmane%20Ayoub&fontColor=E6EDF3&fontSize=60&fontAlignY=40&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Agentic%20Architecture%20%E2%80%A2%20LLM%20%2F%20Vision%20%2F%20ML&descAlignY=63&descSize=18" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=900&color=9BE9FF&center=true&vCenter=true&width=900&lines=Designing+intelligence+as+infrastructure.;Agents+that+execute+with+control.;Grounded+retrieval+by+design.;Latency%2C+reliability%2C+observability." />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/atmaneayoub">
+    <img src="https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=linkedin&logoColor=E6EDF3">
+  </a>
+  <a href="mailto:atmaneayoub10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0b0f14?style=for-the-badge&logo=gmail&logoColor=E6EDF3">
+  </a>
+  <img src="https://img.shields.io/badge/Abu%20Dhabi-0b0f14?style=for-the-badge&logo=googlemaps&logoColor=E6EDF3">
 </p>
 
 ---
 
-<h3 align="center">Building production-grade AI systems that reason, retrieve, act, and scale.</h3>
+## About
 
----
-
-## ⚡ Identity
-
-I engineer intelligence as infrastructure.
+I engineer **production-grade AI systems** that reason, retrieve, act, and scale.
 
 Not demos.  
-Not notebooks.  
-Not wrappers.
+Not wrappers.  
+Not notebook experiments.
 
-I design **end-to-end AI systems** where:
+I design end-to-end intelligent services where:
 
-- Models reason with structure  
+- Autonomy is bounded  
 - Retrieval is measurable  
-- Agents execute safely  
-- Latency is controlled  
-- Infrastructure scales  
-- Failure modes are understood  
-
-My work spans classical ML, deep learning, and frontier LLM architectures — unified under one principle:
-
-> Intelligence must be engineered.
+- Outputs are validated  
+- Latency is budgeted  
+- Systems are observable  
+- Reliability is engineered  
 
 ---
 
-# 🧠 Core Domains
+## Core Focus
 
-## Agentic Architectures (Primary Focus)
+### Agentic Systems
 
-- ReAct / Plan-Execute / Tool-calling systems  
-- Multi-agent coordination  
+- Tool-calling agents with schema enforcement  
+- Plan–execute architectures with control checkpoints  
+- Multi-agent workflow orchestration  
+- Structured reasoning with typed outputs  
+- Guardrails, validation layers, rollback paths  
 - Deterministic + LLM hybrid pipelines  
-- Structured intermediate reasoning  
-- Constraint-enforced generation  
-- Long-horizon task orchestration  
-- Guardrails & validation layers  
 
-I build autonomous systems that interact with tools, memory, and structured knowledge — reliably.
+Reliable autonomy > uncontrolled generation.
 
 ---
 
-## Retrieval-Augmented Systems
+### Retrieval-Augmented Intelligence
 
 - Hybrid search (BM25 + dense embeddings)  
 - Adaptive semantic chunking  
 - Reranking pipelines  
-- Self-correcting RAG loops  
-- Evaluation-driven iteration  
-- Hallucination mitigation through grounding  
+- Grounded generation with citation enforcement  
+- Evaluation harnesses for regression testing  
 
-Retrieval is not optional.  
-It is the backbone of controlled intelligence.
+Retrieval is infrastructure — not a plugin.
 
 ---
 
-## Deep Learning & Vision
+### Vision & Perception Systems
 
-- Custom CNN / Transformer pipelines  
-- Detection, segmentation, OCR  
-- GPU batching & latency tuning  
-- Real-time inference APIs  
-- Vision-language integration  
+- Detection, segmentation, OCR pipelines  
+- GPU batching & inference optimization  
+- Real-time API deployment  
+- Observability-integrated vision services  
 
-Performance and reliability are non-negotiable.
-
----
-
-## Classical ML & Structured Modeling
-
-- Boosting systems (XGBoost / LightGBM / CatBoost)  
-- Risk & anomaly modeling  
-- Explainable ML systems  
-- Drift-aware production pipelines  
-
-Not everything needs a transformer.  
-Sometimes rigor wins.
+Performance is a feature.
 
 ---
 
-# 🏗 System Architecture Mindset
+### Structured ML Systems
 
-AI is a distributed system problem.
+- Boosting-based decision systems  
+- Explainability-first modeling  
+- Drift-aware retraining pipelines  
 
-I design:
-
-- Kubernetes-native inference stacks  
-- GPU-aware workload orchestration  
-- Observable LLM pipelines  
-- Latency-budgeted APIs  
-- Failure-isolated microservices  
-- Cost-optimized inference flows  
-
-Priorities:
-
-- Determinism where possible  
-- Flexibility where needed  
-- Metrics everywhere  
+The right model for the right constraint.
 
 ---
 
-# 🚀 Featured Systems
+## Principles I Engineer By
 
-### 🔷 Autonomous Knowledge Execution Engine
-Agentic RAG framework capable of:
-
-- Multi-step reasoning
-- Tool invocation with schema validation
-- Hybrid retrieval + reranking
-- Structured outputs (JSON enforced)
-- Evaluation harness integration
-
-Built for reliability, not novelty.
+- **Systems > prompts**
+- **Determinism by design**
+- **Evaluate everything**
+- **Grounding is non-negotiable**
+- **Latency is a feature**
+- **Observability is mandatory**
+- **Cost-aware scaling**
 
 ---
 
-### 🔷 High-Throughput Vision Service
-GPU-optimized detection + extraction system:
+## Featured Projects
 
-- Batched inference
-- Custom post-processing
-- API-first deployment
-- Observability integrated
+### ⭐ Agentic Workflow Engine
+Tool-using autonomous workflows with validation and observability.  
+Bounded autonomy with measurable execution.
 
-Designed for scale and precision.
+Repo: `github.com/<you>/<agentic-engine>`
 
 ---
 
-### 🔷 Domain-Adapted LLM Stack
-Fine-tuned LLM deployment system:
+### ⭐ RAG Evaluation Suite
+Hybrid retrieval + reranking + quality gates.  
+Grounded generation with regression testing.
 
-- LoRA / QLoRA adaptation
-- Quantized inference (vLLM)
-- Synthetic data generation loops
-- Cost-controlled scaling
-
-Optimized for real-world constraints.
+Repo: `github.com/<you>/<rag-suite>`
 
 ---
 
-# 🛠 Technology Stack
+### ⭐ High-Throughput Vision Service
+GPU-optimized detection and structured extraction system.  
+Engineered for throughput, precision, and reliability.
 
-## Machine Learning
-![Python](https://img.shields.io/badge/Python-Intelligence-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Structured-orange)
-![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-green)
-![LightGBM](https://img.shields.io/badge/LightGBM-GBDT-brightgreen)
-![Optuna](https://img.shields.io/badge/Optuna-Optimization-purple)
-
-## Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-Research-red)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Production-orange)
-![Transformers](https://img.shields.io/badge/HuggingFace-LLM-yellow)
-![YOLO](https://img.shields.io/badge/YOLO-Vision-critical)
-
-## LLM & Agentic
-![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-black)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-purple)
-![DSPy](https://img.shields.io/badge/DSPy-Programmatic-blueviolet)
-![vLLM](https://img.shields.io/badge/vLLM-Inference-blue)
-![TensorRT](https://img.shields.io/badge/TensorRT-Acceleration-green)
-
-## Infrastructure
-![FastAPI](https://img.shields.io/badge/FastAPI-Serving-teal)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
-![GCP](https://img.shields.io/badge/GCP-Cloud-red)
+Repo: `github.com/<you>/<vision-service>`
 
 ---
 
-# 🎯 Current Direction
+## Stack (Signals Only)
 
-- Reliable agentic orchestration frameworks  
-- Long-context reasoning under constraints  
-- Evaluation-first LLM engineering  
-- Efficient frontier-model deployment  
-- High-performance multimodal systems  
+<p>
+  <img src="https://img.shields.io/badge/Python-0b0f14?style=flat&logo=python&logoColor=E6EDF3" />
+  <img src="https://img.shields.io/badge/PyTorch-0b0f14?style=flat&logo=pytorch&logoColor=E6EDF3" />
+  <img src="https://img.shields.io/badge/TensorFlow-0b0f14?style=flat&logo=tensorflow&logoColor=E6EDF3" />
+  <img src="https://img.shields.io/badge/FastAPI-0b0f14?style=flat&logo=fastapi&logoColor=E6EDF3" />
+  <img src="https://img.shields.io/badge/Docker-0b0f14?style=flat&logo=docker&logoColor=E6EDF3" />
+  <img src="https://img.shields.io/badge/Kubernetes-0b0f14?style=flat&logo=kubernetes&logoColor=E6EDF3" />
+  <img src="https://img.shields.io/badge/AWS-0b0f14?style=flat&logo=amazonaws&logoColor=E6EDF3" />
+  <img src="https://img.shields.io/badge/Azure-0b0f14?style=flat&logo=microsoftazure&logoColor=E6EDF3" />
+  <img src="https://img.shields.io/badge/GCP-0b0f14?style=flat&logo=googlecloud&logoColor=E6EDF3" />
+</p>
 
 ---
 
-# 🤝 Connect
+## GitHub Activity (Minimal)
 
-📧 atmaneayoub10@gmail.com  
-🔗 https://linkedin.com/in/atmaneayoub  
-📍 Abu Dhabi, UAE  
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b0f14&text_color=E6EDF3&icon_color=9BE9FF" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&hide_title=true&hide_border=true&bg_color=0b0f14&text_color=E6EDF3" />
+</p>
 
 ---
 
 <p align="center">
-  <i>Always building. Always refining. Engineering intelligence properly.</i>
+  <sub>Engineering intelligence properly — with constraints, metrics, and systems thinking.</sub>
 </p>
