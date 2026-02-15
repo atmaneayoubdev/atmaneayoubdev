@@ -1,4 +1,4 @@
-```md
+
 <!-- =======================================================
 Atmane Ayoub — GitHub Profile
 Hardcore AI Lab vibe • dark • precise • technical
@@ -146,4 +146,4 @@ I design pipelines with evaluation as a first-class citizen:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0b1220,100:05070a&section=footer&text=Lab-grade%20systems.%20Production-grade%20engineering.&fontColor=7CF7FF&fontSize=18&fontAlignY=55" />
 </p>
-```
+
