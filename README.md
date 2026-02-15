@@ -26,14 +26,6 @@ Hardcore AI Lab vibe • dark • precise • technical
 
 <br/>
 
-<!-- "lab" separator -->
-<p align="center">
-  <img src="https://img.shields.io/badge/LAB%20MODE-05070a?style=for-the-badge&labelColor=05070a&color=0b1220" />
-  <img src="https://img.shields.io/badge/BUILD-05070a?style=for-the-badge&labelColor=05070a&color=0b1220" />
-  <img src="https://img.shields.io/badge/MEASURE-05070a?style=for-the-badge&labelColor=05070a&color=0b1220" />
-  <img src="https://img.shields.io/badge/SHIP-05070a?style=for-the-badge&labelColor=05070a&color=0b1220" />
-</p>
-
 ---
 
 ## ⛓️ Operating Model
