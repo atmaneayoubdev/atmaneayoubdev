@@ -1,33 +1,34 @@
 <!-- =======================================================
 Atmane Ayoub — GitHub Profile
-Refined dark cyber-lab • precise • technical • proof-first
+Gradient glassmorphism • violet -> blue -> cyan • frosted chips
 ======================================================= -->
 
-<!-- HERO -->
+<!-- HERO: animated gradient wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:05070a,100:0b1220&text=Atmane%20Ayoub&fontColor=E6EDF3&fontSize=64&fontAlignY=42&desc=AI%20%C2%B7%20ML%20Engineer%20%E2%80%94%20Founder%20%40%20Sefar%20AI&descAlignY=68&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8b5cf6,50:3b82f6,100:22d3ee&text=Atmane%20Ayoub&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=AI%20%C2%B7%20ML%20Engineer%20%E2%80%94%20Founder%20%40%20Sefar%20AI&descAlignY=56&descSize=20&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=800&color=7CF7FF&center=true&vCenter=true&width=980&lines=6+years+building+AI+systems+that+ship.;Agents+that+execute+reliably.;Retrieval+with+measurable+grounding.;Inference+engineered+as+a+system%2C+not+a+script." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=800&color=A78BFA&center=true&vCenter=true&width=980&lines=6+years+building+AI+systems+that+ship.;Agents+that+execute+reliably.;Retrieval+with+measurable+grounding.;Inference+engineered+as+a+system%2C+not+a+script." />
 </p>
 
-<!-- IDENTITY BAR -->
+<!-- IDENTITY BAR: gradient accents -->
 <p align="center">
-  <img src="https://img.shields.io/badge/6%2B%20years%20in%20AI%2FML-05070a?style=for-the-badge&labelColor=05070a&color=0b1220" />
-  <img src="https://img.shields.io/badge/Founder%20%40%20Sefar%20AI-05070a?style=for-the-badge&labelColor=05070a&color=0b1220" />
+  <img src="https://img.shields.io/badge/6%2B%20years%20in%20AI%2FML-8b5cf6?style=for-the-badge&labelColor=1e293b" />
+  <img src="https://img.shields.io/badge/Founder%20%40%20Sefar%20AI-3b82f6?style=for-the-badge&labelColor=1e293b" />
   <a href="https://linkedin.com/in/atmaneayoub">
-    <img src="https://img.shields.io/badge/LinkedIn-05070a?style=for-the-badge&logo=linkedin&logoColor=7CF7FF" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:atmaneayoub10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-05070a?style=for-the-badge&logo=gmail&logoColor=7CF7FF" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Abu%20Dhabi-05070a?style=for-the-badge&logo=googlemaps&logoColor=7CF7FF" />
+  <img src="https://img.shields.io/badge/Abu%20Dhabi-22d3ee?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <br/>
 
----
+<!-- glass divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:3b82f6,100:22d3ee" />
 
 ### ◈ Who I am
 
@@ -35,7 +36,8 @@ AI/ML engineer with **6 years** shipping intelligent systems end-to-end, and **f
 
 > If it can't be tested, traced, and constrained — it's not ready.
 
----
+<!-- glass divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:3b82f6,100:22d3ee" />
 
 ## 🧬 Core Domains
 
@@ -47,7 +49,8 @@ AI/ML engineer with **6 years** shipping intelligent systems end-to-end, and **f
 | **🗣️ Voice & Speech** | Voice cloning & TTS (XTTS) · real-time voice agents · speech pipelines wired into agentic backends |
 | **📊 Structured ML** | Gradient boosting (XGBoost / LightGBM / CatBoost) · explainability-first (SHAP / LIME) · drift-aware retraining |
 
----
+<!-- glass divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:3b82f6,100:22d3ee" />
 
 ## 🚀 Featured Work
 
@@ -60,55 +63,58 @@ AI/ML engineer with **6 years** shipping intelligent systems end-to-end, and **f
 | **[vehicle-vision-system](https://github.com/atmaneayoubdev/vehicle-vision-system)** | End-to-end computer-vision pipeline turning raw detections into structured, actionable data. |
 | **🔒 Sefar AI — production work** | Agentic backends (FastAPI), Next.js frontends, self-hosted deployment & CI/CD. *Private.* |
 
----
+<!-- glass divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:3b82f6,100:22d3ee" />
 
 ## 🧰 Stack
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/Python-05070a?style=flat&logo=python&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/TypeScript-05070a?style=flat&logo=typescript&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/SQL-05070a?style=flat&logo=postgresql&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/Bash-05070a?style=flat&logo=gnubash&logoColor=7CF7FF" />
+  <img src="https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/TypeScript-1e293b?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/SQL-1e293b?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Bash-1e293b?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
 </p>
 
 **Deep Learning & ML**
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-05070a?style=flat&logo=pytorch&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/Transformers-05070a?style=flat&logo=huggingface&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/scikit--learn-05070a?style=flat&logo=scikitlearn&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/XGBoost-05070a?style=flat&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/OpenCV-05070a?style=flat&logo=opencv&logoColor=7CF7FF" />
+  <img src="https://img.shields.io/badge/PyTorch-1e293b?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Transformers-1e293b?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/scikit--learn-1e293b?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/XGBoost-1e293b?style=for-the-badge&logo=python&logoColor=89CFF0" />
+  <img src="https://img.shields.io/badge/OpenCV-1e293b?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
 </p>
 
 **LLM / Agents / RAG**
 <p>
-  <img src="https://img.shields.io/badge/LangGraph-05070a?style=flat&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/LlamaIndex-05070a?style=flat&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/Qdrant-05070a?style=flat&logo=qdrant&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/pgvector-05070a?style=flat&logo=postgresql&logoColor=7CF7FF" />
+  <img src="https://img.shields.io/badge/LangGraph-1e293b?style=for-the-badge&logo=langchain&logoColor=1C3C3C" />
+  <img src="https://img.shields.io/badge/LlamaIndex-1e293b?style=for-the-badge&logo=meta&logoColor=0467DF" />
+  <img src="https://img.shields.io/badge/Qdrant-1e293b?style=for-the-badge&logo=qdrant&logoColor=DC244C" />
+  <img src="https://img.shields.io/badge/pgvector-1e293b?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 </p>
 
 **Serving, Infra & Cloud**
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-05070a?style=flat&logo=fastapi&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/Next.js-05070a?style=flat&logo=nextdotjs&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/Docker-05070a?style=flat&logo=docker&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/Kubernetes-05070a?style=flat&logo=kubernetes&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/AWS-05070a?style=flat&logo=amazonaws&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/Azure-05070a?style=flat&logo=microsoftazure&logoColor=7CF7FF" />
-  <img src="https://img.shields.io/badge/GCP-05070a?style=flat&logo=googlecloud&logoColor=7CF7FF" />
+  <img src="https://img.shields.io/badge/FastAPI-1e293b?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Next.js-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1e293b?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Kubernetes-1e293b?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/AWS-1e293b?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Azure-1e293b?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/GCP-1e293b?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
 </p>
 
----
+<!-- glass divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:3b82f6,100:22d3ee" />
 
 ## 📈 GitHub Signal
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atmaneayoubdev&hide_border=true&background=05070a&stroke=0b1220&ring=7CF7FF&fire=7CF7FF&currStreakLabel=7CF7FF&sideLabels=E6EDF3&dates=8b98a5&currStreakNum=E6EDF3&sideNums=E6EDF3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atmaneayoubdev&hide_border=true&background=0d1117&stroke=8b5cf6&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee&sideLabels=E6EDF3&dates=8b98a5&currStreakNum=ffffff&sideNums=ffffff" />
 </p>
 
----
+<!-- glass divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:3b82f6,100:22d3ee" />
 
 ## 🧠 How I Engineer
 
@@ -117,9 +123,7 @@ AI/ML engineer with **6 years** shipping intelligent systems end-to-end, and **f
 - **Measure grounding over persuasion** — no eval, no deploy.
 - **Instrument everything & optimize for p95** — traces, metrics, latency budgets, cost as a hard constraint.
 
----
-
-<!-- FOOTER -->
+<!-- FOOTER: gradient wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0b1220,100:05070a&section=footer&text=Lab-grade%20systems.%20Production-grade%20engineering.&fontColor=7CF7FF&fontSize=18&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&reverse=true&height=120&color=0:22d3ee,50:3b82f6,100:8b5cf6&section=footer&text=Lab-grade%20systems.%20Production-grade%20engineering.&fontColor=ffffff&fontSize=17&fontAlignY=72" />
 </p>
