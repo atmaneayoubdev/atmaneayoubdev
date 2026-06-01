@@ -105,11 +105,6 @@ AI/ML engineer with **6 years** shipping intelligent systems end-to-end, and **f
 ## 📈 GitHub Signal
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=atmaneayoubdev&show_icons=true&hide_border=true&bg_color=05070a&title_color=7CF7FF&icon_color=7CF7FF&text_color=E6EDF3&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmaneayoubdev&layout=compact&hide_border=true&bg_color=05070a&title_color=7CF7FF&text_color=E6EDF3&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atmaneayoubdev&hide_border=true&background=05070a&stroke=0b1220&ring=7CF7FF&fire=7CF7FF&currStreakLabel=7CF7FF&sideLabels=E6EDF3&dates=8b98a5&currStreakNum=E6EDF3&sideNums=E6EDF3" />
 </p>
 
